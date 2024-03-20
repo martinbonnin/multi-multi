@@ -1,0 +1,7 @@
+type Query {
+    bar: Int!
+}
+
+type Subscription {
+    event: Int!
+}
